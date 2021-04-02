@@ -11,7 +11,7 @@ Integração de Redes IoT, WLAN e LAN em não-3GPP e não confiável a sistemas 
 
 ## Documentation
 
-For documentation, please reference to [wiki](https://github.com/my5G/my5Gc-non3gpp-Case/wiki).
+For documentation, please reference to [wiki](https://github.com/agenteph/my5Gc-non3gpp-Case/wiki).
 
 ## License
 
